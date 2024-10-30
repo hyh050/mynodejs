@@ -1,0 +1,48 @@
+
+
+
+
+
+# 기본타입
+# int : 32비트 정수형
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####
+
+{
+    ㅗ디ㅣㅐ
+
+}
+
+
+mutation {
+    createPost( title : "New title", content: "NEW CONTENT"){
+        id
+    }
+
+    
+}
